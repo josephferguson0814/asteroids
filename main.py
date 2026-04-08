@@ -13,6 +13,7 @@ def main():
 
     while True:
         log_state()
+        Player1.update(dt)
         for event in pygame.event.get():
             if event.type == pygame.QUIT:
                 return
