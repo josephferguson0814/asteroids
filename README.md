@@ -10,8 +10,8 @@ This was part of a guided project on boot.dev to build the game Asteroids! Some 
 
 ## Requirements
 
-- Python 3.10 +
-- Pygame package
+- Python 3.13
+- Pygame 2.6.1
 
 ## How to Run
 
