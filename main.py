@@ -30,6 +30,7 @@ def main():
     while True: #Main game loop
         log_state()
         updatable.update(dt)
+        Player1.shot_cooldown_timer -= dt
 
         for asteroid in asteroids: #Checks for collisions with player
             result = asteroid.collides_with(Player1)
