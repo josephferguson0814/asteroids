@@ -24,3 +24,4 @@ This was part of a guided project on boot.dev to build the game Asteroids! Some 
 - Working with OOP for the first time
 - Using a logging function to log important game state info for debugging
 - How to use Pygame to render things and take player input
+- How to use the UV package manager for Python
